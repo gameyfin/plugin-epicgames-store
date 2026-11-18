@@ -1,4 +1,4 @@
-Plugin-Version: 1.0.0
+Plugin-Version: 1.0.1
 Plugin-Class: org.gameyfin.plugins.store.epic.EpicPlugin
 Plugin-Id: org.gameyfin.plugins.store.epic
 Plugin-Name: Epic Games Store (egdata.app)
@@ -7,4 +7,5 @@ Plugin-Description: Tracks versions, DLC and editions of games on the Epic Games
 Plugin-Short-Description: Versions and DLC from the Epic Games Store
 Plugin-Author: grimsi
 Plugin-License: MIT
-Plugin-Url: https://github.com/gameyfin
+Plugin-Url: https://github.com/gameyfin/plugin-epicgames-store
+Plugin-Requires: >=2.7.0
